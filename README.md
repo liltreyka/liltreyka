@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @liltreyka
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
-- 💞️ I collaborate with brokenmoony
-- 📫 How to reach me idk
-- 😄 Pronouns: he
-- ⚡ Fun fact: the average person will spend six months of their life waiting for red lights to turn green
+- 🌱 I’m currently learning Kotlin
+- 💞️ I collaborate with people
+- 📫 How to reach me (you dont need it)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i can play hoi 4 for a day
+
+### 📊 Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=liltreyka&show_icons=true&theme=tokyonight&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liltreyka&layout=compact&theme=tokyonight&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<br/> 
 
 <!---
 liltreyka/liltreyka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
